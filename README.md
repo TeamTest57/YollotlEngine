@@ -1,10 +1,10 @@
-# 🌊 Atl - GIS library 🌊
+# 🌊 AGISL (Atl - GIS library) 🌊
 
 ![logo.png](./logo.png)
 
 ---
 
-Atl is a library that supports geographic information systems.
+AGISL is a library that supports geographic information systems.
 
 Atl means water in Nahuatl.
 
