@@ -1,4 +1,4 @@
-# 🌊 Atl - geographic information systems 🌊
+# 🌊 Atl - GIS library 🌊
 
 ![logo.png](./logo.png)
 
